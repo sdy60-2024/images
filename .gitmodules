@@ -1,0 +1,3 @@
+[submodule "external-images"]
+	path = external-images
+	url = https://github.com/PapadoAndreas/ge2-PapadoAndreas.git
